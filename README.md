@@ -1,4 +1,5 @@
 Gwent Rank : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/GwentRank/master?filepath=Gwent%20Stats.ipynb)
+
 Pro Player Estimate : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/GwentRank/master?filepath=GwentProPlayerEstimate.ipynb)
 
 # GwentRank and Pro Player Estimates
