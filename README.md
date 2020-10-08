@@ -11,10 +11,8 @@ analysis tricks there must be more we can do with these data! Using python we'll
 and calculate additional statistics about the current season, popularity of the game in different countries, players' 
 efficiency, players national rank, ...
 
-Furthermore there is a notebook to estimate how many Pro Players there are and not just the 2860 that is shown in the rankings.
+Furthermore there is a notebook to estimate how many Pro Players there actually are as there are only 2860 reported on the Gwent Masters Website.
 
-You can find out how to do this and more in the notebook in this repository, or launch it directly from this page using the Binder button at the top.
+Both notebooks can be launched directly into Binder so you can play with the code without installing anything.
 
-A detailed description of this project you can find on the [4DCu.be blog](http://blog.4dcu.be/programming/games/2020/09/01/GwentProRankAnalysis.html)
-
-
+More details can be found on my blog [4DCu.be](http://blog.4dcu.be/programming/games/2020/09/01/GwentProRankAnalysis.html)
